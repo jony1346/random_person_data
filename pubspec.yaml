@@ -20,9 +20,13 @@ dev_dependencies:
 flutter:
   plugin:
     platforms:
-      android: null
-      ios: null
-      web: null
-      windows: null
-      linux: null
-      macos: null
+      android:
+        package: io.flutter.embedding.android
+      ios:
+        package: io.flutter.embedding.ios
+      linux:
+        package: flutter
+      macos:
+        package: flutter
+      windows:
+        package: flutter
