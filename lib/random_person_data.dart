@@ -1,3 +1,5 @@
+// ignore_for_file: constant_identifier_names
+
 library random_person_data;
 
 import 'dart:convert';
