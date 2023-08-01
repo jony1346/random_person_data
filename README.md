@@ -148,8 +148,6 @@ List<RandomPersonData> persons = await randomPerson.get(password: "upper,lower,1
 
 You can mix and match character sets for the `CHARSETS` option and specify the min/max length of the passwords you want to generate.
 
-```
-
 ## Nationalities
 
 You can request data for specific nationalities using the `nat` parameter. Pictures won't be affected, but data such as location, phone, etc., will be more appropriate for the specified nationality.
@@ -183,4 +181,10 @@ const String baseUrl = 'https://randomuser.me/api/1.4/';
 
 This library relies on the Random User Generator API, and its availability and response formats are subject to change by the API provider. Please refer to the official Random User Generator documentation for the most up-to-date information.
 
-For any issues or feedback related to this library, feel free to create an issue on GitHub. Happy coding!
+For any issues or feedback related to this library, feel free to create an issue on GitHub. Happy
+
+ coding!
+
+---
+
+**Note**: All project data in this library is based on the web API provided by https://randomuser.me/.
