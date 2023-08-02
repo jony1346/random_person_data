@@ -1,6 +1,6 @@
 name: random_person_data
 description: A Dart package for fetching random user data from the Random User Generator API.
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/jony1346/random_person_data
 
 environment:

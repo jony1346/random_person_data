@@ -10,7 +10,7 @@ To use this library, follow these steps:
 
 ```yaml
 dependencies:
-  random_person_data: ^1.0.0  # Replace with the latest version
+  random_person_data: ^1.0.1  # Replace with the latest version
 ```
 
 2. Import the package in your Dart file:
